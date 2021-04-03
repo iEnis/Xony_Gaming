@@ -1,0 +1,31 @@
+:root {
+	--background-image: url(https://i.imgur.com/xEaCNJp.png);
+	--home-icon: url(https://i.imgur.com/BrWBEVG.gif);
+	--main-color: #288561;
+	--hover-color: #288561;
+	--background-overlay: rgba(0, 0, 0, 0.5);
+}
+.sprite-2iCowe {
+	background-image: url(https://i.imgur.com/7vzd0uy.png);
+}
+div.contents-18-Yxp.da-contents {
+	color: #288561
+}
+.rtcConnectionStatusConnected-VRZDjy {
+	color: #288561
+}
+.rtcConnectionQualityFine-2J6i8z .pingForeground-2uAOZ3 {
+    color: #288561;
+}
+div.container-3baos1:before {
+	content: "Xony Gaming";
+}
+.typeWindows-1za-n7>.wordmark-2iDDfm:before {
+	content:"Xony Gaming";
+}
+.typeWindows-1za-n7>.wordmark-2iDDfm:after {
+	content:"v2.0.1";
+}
+div.container-3baos1:after {
+	content: "v2.0.1";
+}
